@@ -45,8 +45,7 @@
 - Открыть созданный файл с именем HelloWorld, написать в него команду print() с характерным содержанием и запустить выполнение, нажав Run.
 
 
-
-![image](https://github.com/user-attachments/assets/adae1980-e2f0-4f69-bc0b-74f374def9f5)
+![image](https://github.com/user-attachments/assets/cdd37a5a-00d0-4f31-a642-89b80e1c931e)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
